@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+dist/
+dist-ssr
+dist.zip
+
+backend/.env
+client/.env
+
+# Environment
+.env
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Build
+*.suo
+*.sw?
